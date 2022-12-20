@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 	<a href="https://team60.gitbook.io/militaryumcs/"><img src='https://img.shields.io/badge/DOCUMENT-blue?style=for-the-badge'></a>
-	<a href="https://www.youtube.com/watch?v=__YMR06YltA"><img src='https://img.shields.io/badge/VIDEO-blue?style=for-the-badge'></a>
+	<a href="https://www.youtube.com/watch?v=Z7qstU7QPmw&t=98s"><img src='https://img.shields.io/badge/VIDEO-blue?style=for-the-badge'></a>
 </p>
 
 ### APP, WEB 로고
